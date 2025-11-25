@@ -115,12 +115,3 @@ I worked on:
 - Pitching the project in front of the judges and municipality  
 - Building the logic behind the smart services and features  
 
-
-## Repository Structure
-
-```text
-CitySpot/
-│
-├── README.md          # Full project description
-├── assets/            # Images from the presentation
-└── docs/              # Presentation, specifications, UX drafts
